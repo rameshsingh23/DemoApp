@@ -49,6 +49,13 @@ public class LocationActivity extends AppCompatActivity implements GeoLocationMa
                 startActivityForResult(identity, IDENTITY_REQUEST);
             }
         });
+
+        mCreateGroup.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+            }
+        });
     }
 
     @Override
