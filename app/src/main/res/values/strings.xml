@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Social Evening</string>
+    <string name="facebook_app_id">105363703160003</string>
+    <string name="group_name">Group name</string>
+    <string name="around_you">Here are others around you</string>
+    <string name="team_mission">Team mission</string>
+    <string name="reward">Rewards</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
